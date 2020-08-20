@@ -1,0 +1,68 @@
+
+body{
+  background-image: url("https://media.giphy.com/media/4BdaJ92wV9ciI/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: black;
+}
+
+h1{
+  color: pink;
+  font-size: 5rem;
+  height: 60px;
+  margin-left: 137px;
+}
+button{
+  background-color: pink;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  font-weight: bold;
+  width: 90px;
+  height: 50px;
+  margin: 15px 0 0 5px;
+  border-radius: 6px;
+
+}
+
+h2{
+      margin-left: 68px;
+
+}
+
+.middle{
+  width: 100%;
+  float: left;
+  /* padding-left: 400px;
+  padding-right: 400px; */
+
+}
+
+p{
+  width: 40%;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 414px;
+  display: block;
+}
+
+.scoreboard{
+  padding-left: 600px;
+  font-size: 29px;
+
+}
+
+.player{
+  margin-left: 519px;
+  margin-top: 150px;
+}
+
+table{
+  margin-left: 40px;
+}
+#status{
+  margin-left: 586px;
+  font-size: 30px;
+}
